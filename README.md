@@ -7,6 +7,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 ### Contributions
 
+
 [Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
 
 Other notable contributors:
